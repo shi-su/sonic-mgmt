@@ -52,3 +52,4 @@ def pytest_addoption(parser):
         action="store_true",
         help="Apply new configurations on DUT"
     )
+    
